@@ -75,6 +75,10 @@ This setup is useful when users need to delete many records in one go instead of
 6. Parent records are deleted  
 7. A success message is shown  
 
+<img width="1899" height="892" alt="image" src="https://github.com/user-attachments/assets/6019c97e-d179-47d0-bf70-2db42114441f" />
+
+
+
 
 ## Result
 
