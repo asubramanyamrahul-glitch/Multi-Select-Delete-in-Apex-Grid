@@ -75,13 +75,6 @@ This setup is useful when users need to delete many records in one go instead of
 6. Parent records are deleted  
 7. A success message is shown  
 
-## Notes
-
-- Make sure the correct primary key (`AUTHOR_ID`) is used
-- Check foreign key relationships before writing the delete logic
-- Always delete dependent child records first
-- Add proper validations if no row is selected
-- Add exception handling to avoid unexpected errors
 
 ## Result
 
