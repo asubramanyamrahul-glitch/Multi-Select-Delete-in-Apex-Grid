@@ -82,6 +82,6 @@ With this implementation, users can select multiple rows in an Oracle APEX Inter
 
 This approach is simple, practical, and useful for applications where bulk delete is required.
 
-## [Please refer documentation for complete understanding]([https://example.com](https://github.com/asubramanyamrahul-glitch/Multi-Select-Delete-in-Apex-Grid/tree/main/Multi%20Select%20and%20Delete/Document))
+## [Please refer the documentation for full understanding](https://github.com/asubramanyamrahul-glitch/Multi-Select-Delete-in-Apex-Grid/tree/main/Multi%20Select%20and%20Delete/Document)
 
 
